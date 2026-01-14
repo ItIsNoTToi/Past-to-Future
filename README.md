@@ -1,5 +1,6 @@
 # 🎨 Echo Painter:
-The Geometry of TimeEcho Painter is a logic-based drawing puzzle game built with React, TypeScript, and the HTML5 Canvas API.Players must recreate target patterns by drawing on the "Present" canvas. However, there’s a twist: every stroke you make is "echoed" onto the "Past" and "Future" canvases according to specific mathematical and temporal rules. To win, you must master how coordinates transform across dimensions.
+* The Geometry of TimeEcho Painter is a logic-based drawing puzzle game built with React, TypeScript, and the HTML5 Canvas API.
+* Players must recreate target patterns by drawing on the "Present" canvas. However, there’s a twist: every stroke you make is "echoed" onto the "Past" and "Future" canvases according to specific mathematical and temporal rules. To win, you must master how coordinates transform across dimensions.
 ## 🚀 Core Mechanics
   The game challenges your spatial reasoning through six distinct levels of coordinate transformation:
   1. Direct Echo: Standard 1:1 movement across all timelines.
